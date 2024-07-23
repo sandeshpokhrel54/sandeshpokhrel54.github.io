@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sandeshpokhrel.github.io/sitemap.xml
+Sitemap: https://sandeshpokhrel54.github.io/sandeshpokhrel.github.io/sitemap.xml
