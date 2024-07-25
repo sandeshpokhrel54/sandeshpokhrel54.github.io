@@ -7,19 +7,7 @@ tags: daily
 categories: Everyday
 tabs: true
 ---
-<!-- ---
-author:
-  name: "Sandesh Pokhrel"
-date: 2020-05-28
-linktitle: The New Normal
-type:
-- post
-- posts
-title: Groundhog Day
-weight: 10
-series:
-- Hugo 101
---- -->
+
 
 
 ## Life during the lockdown 

@@ -7,19 +7,7 @@ tags: learning
 categories: Everyday
 tabs: true
 ---
-<!-- ---
-author:
-  name: "Sandesh Pokhrel"
-date: 2022-09-26
-linktitle: dejavu
-type:
-- post
-- posts
-title: A Hideous Loop
-weight: 10
-series:
-- Hugo 101
---- -->
+
  
 # Exams.cpp
 

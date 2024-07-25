@@ -7,19 +7,6 @@ tags: engineering, software, mentoring
 categories: Teaching
 tabs: true
 ---
-<!-- ---
-author:
-  name: "Sandesh Pokhrel and Pranjal Pokharel"
-date: 2022-12-27
-linktitle: cit_manang
-type:
-- post
-- posts
-title: Children in Technology
-weight: 10
-series:
-- Hugo 101
---- -->
 
 
 # CIT - Manang

@@ -7,19 +7,6 @@ tags: ride, snow, hike
 categories: Travel
 tabs: true
 ---
-<!-- ---
-author:
-  name: "Sandesh Pokhrel"
-date: 2022-02-14
-linktitle: A trip to snowland 
-type:
-- post
-- posts
-title: A trip to snowland 
-weight: 10
-series:
-- Hugo 101
---- -->
 
 ## A trip to snowland 
 

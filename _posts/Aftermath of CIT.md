@@ -7,19 +7,7 @@ tags: trek, snow, lake
 categories: Travel
 tabs: true
 ---
-<!-- ---
-author:
-  name: "Sandesh Pokhrel"
-date: 2023-02-27
-linktitle: after_cit
-type:
-- post
-- posts
-title: Aftermath of CIT
-weight: 10
-series:
-- Hugo 101
---- -->
+
 
 ## Prologue
 
