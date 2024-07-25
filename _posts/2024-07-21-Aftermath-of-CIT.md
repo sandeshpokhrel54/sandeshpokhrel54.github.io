@@ -17,6 +17,7 @@ The idea to complete the Annapurna Circuit came about with the taste of hot *jer
 
 **The stars above Mt. Manaslu.**
 ![(Astrophotography at 2 degrees below zero.)](aftermath-of-cit/manaslu.jpg)
+{% include figure.liquid loading="eager" path="assets/img/aftermath-of-cit/manaslu.jpg" class="img-fluid rounded" %} 
 
 ## The Lost Projector
 
