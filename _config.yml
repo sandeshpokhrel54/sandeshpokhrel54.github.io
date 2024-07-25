@@ -205,7 +205,7 @@ announcements:
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
@@ -305,7 +305,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["mentoring", "engineering", "software", "daily", "snow", "hike", "lake"] # these tags will be displayed on the front page of your blog
-display_categories: ["Travel", "Teaching","Everyday","Football", ] # these categories will be displayed on the front page of your blog
+display_categories: ["Travel", "Teaching","Everyday","Football" ] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
