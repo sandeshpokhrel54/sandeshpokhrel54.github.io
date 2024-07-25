@@ -4,7 +4,7 @@ title: Children in Technology
 date: 2022-12-27 00:00:15
 description: Teaching children in remote villages of Nepal about technology
 tags: engineering, software, mentoring
-categories: teaching
+categories: Teaching
 tabs: true
 ---
 <!-- ---
