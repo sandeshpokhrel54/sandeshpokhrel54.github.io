@@ -16,12 +16,12 @@ tabs: true
 The idea to complete the Annapurna Circuit came about with the taste of hot *jeri* and *mirch* tea on our lips in the midst of our event, Children in Technology. One utterance was all it took to change our itinerary from *Tilicho* to *Thorong La*.  But we didn’t get ahead of ourselves since we still had one more day of CIT left, however it was safe to be prepared just in case, so we packed crampons and a bit of extra supplies at *Chame*. 
 
 **The stars above Mt. Manaslu.**
-![(Astrophotography at 2 degrees below zero.)](/img/aftermath/manaslu.jpg)
+![(Astrophotography at 2 degrees below zero.)](aftermath-of-cit/manaslu.jpg)
 
 ## The Lost Projector
 
 *I need to know now, can you love me again.*
-![(Tanki Manang.)](/img/aftermath/t_.jpg)
+![(Tanki Manang.)](aftermath-of-cit/t_.jpg)
 
 We were to fall in love with Manang once more, this time without the obligations of the duty at hand. Our plan was to now reach *Thangsar,* the same day we completed CIT. After a warm lunch of *thukpa,* we packed our bags and left to explore *Tanki Manang* before bidding goodbye to *Hotel Lake View.*
 
@@ -64,7 +64,7 @@ Through suspension bridges, early morning winds and dusty road, we reached *Than
 We went to a nearby pharmacy and got scammed well and good, but with what other option did we have. “Bloody hell she charged us Rs. 600 for ‘NOT FOR SALE’ medicine(Vitamin C, Vitamin B)”.  After lunch, we rested under the canopy of yet another mountain, a recurring theme on our travel.
 
 Rivulets flowing from tall hills to meet the *Marsyangdi* below running along the mountains that stood like a wall across us. The ascend to *Shreekharka* was steep. Following another dusty trail alongside load-carrying donkeys we reached *Shreekharka* at about 3pm. Staring across the cliff, one could only imagine how on Earth is this piece of rock across us so intriguing. 
-![(Shreekharka)](/img/aftermath/Shreekharka.jpg)
+![(Shreekharka)](aftermath-of-cit/Shreekharka.jpg)
 
 After some sugary diet of chocolates and dates we were ready to march but the trail ensured that there would be no quick marches but a slow and steady race with the sun to Tilicho Base Camp.
 
@@ -85,7 +85,7 @@ As we continued to climb alongside the mountain, we soon came across a snow dese
 We finally reached Tilicho after four grueling hours. Exhausted and cold, I took a much-needed rest before I could appreciate the stunning view that lay before me. It was a memorable experience that tested our limits and made us appreciate the beauty of nature even more. The fun however had only just began as a helicopter started landing bicycles just a few paces from where we stood flattening anyone who stood close to the icy ground. They were cycling their way down from the Tilicho lake. 
 
 *Blue and pristine.*
-![(Tilicho)](/img/aftermath/tilicho.jpg)
+![(Tilicho)](aftermat-of-cit/tilicho.jpg)
 The wind was so cold that you couldn’t feel your hands. No one dared to take off their gloves. Rubbing hands and passing the phone around quick, we took turns capturing the moments. 
 Descending on the slippery ice which had started to melt under the sun, it took us another two hours. These two hours were extremely long and frustrating because of hunger. After reaching the base camp we had lunch and checked our Oxygen levels to make sure we were fit to continue. Although the Oxygen level seemed fine, I didn’t feel well at all. The toughest day of all the days of trek for me. My head pounding and my lungs panting and gasping for air. Might have also been because I hadn’t taken *Acetazolamide,* the medicine for altitude sickness even while climbing up to Tilicho. 
 
@@ -108,7 +108,7 @@ Our trekking group set out with the intention of reaching *Yakkharka* and eventu
 An old trekking guide accompanied us at dinner, a social gathering the cold weather commenced as everyone in the hall tuned in to listen to the words of wisdom from the man who had spent his life on mountains.  He was guiding a mountaineer to climb Annapurna South but due to adverse conditions they would be trying on a mountain which would be much easier. That distinctive red jacket holding up a bottle of hot local alcohol will always make me cheer when I think of my trekking memories. Our dinner that day was a comforting one with cheesy pizza, cheese bombed spaghetti and *thukpa* each worth every single rupee. While the restaurants in big cities like Pokhara and Kathmandu are busy scamming customers with their extravagant pricing and below average food, *Ledar* served us the food that will hold a special place in our heart and stomach.
 
 Early morning after a breakfast of mixed vegetables and potatoes, we hit the road with a group of other trekkers who had been halted by the snow. Our destination: *High Camp*. Two roads led to our destination. *Punpun* and I decided to follow an experienced trekker and took the shortcut, while others had already moved onto the a longer and more comfortable road. The shorter road we took was approximately 150 meters lower in altitude to the longer road that went uphill and came down again. The trail we followed was a dangerous one, with stones sliding down from hill tops at some places, making the journey even more thrilling. Despite the danger, we were able to appreciate the stunning views of the surrounding mountains and one of the clicks from this road is a wallpaper on my phone.
-![(The valley)](/img/aftermath/valley.jpg)
+![(The valley)](aftermath-of-cit/valley.jpg)
 
 At *Phedi*, we regrouped and had lunch before beginning our ascent to *High Camp*. The climb was steep, with an incline of approximately 45 degrees, and it took us nearly an hour to reach our destination due to the thin air and our tired legs. However, the effort was well worth it once we reached the 4910m high view point at *High Camp*. Despite the extreme winds, we could not deny the stunning view of the curved valley and the icy glaciers, which seemed ready to drop from the mountain crevasses. We took our time to fully take in the breathtaking scenery, admiring the beauty of the surrounding nature and the peacefulness of the moment.
 
@@ -149,7 +149,7 @@ Trekking stick, check, crampon, check, *Vhagar* check, *red bull* check and my w
 A challenge was just what I needed to get the spring in my steps.  
 
 The trail was extreme, if you could call it a trail. The dawn was upon us and winds started getting extreme as we moved towards the pass. The road was snowy and brittle icicles topped everything around. There would be gusts of strong winds when you could do nothing but try not to fall on the thick ice below. Icy shards were entering your jackets, your cap, gloves and shoes, the cold unbearable. A progression of iron poles striped with colors were placed to indicate the direction of the trail. The ice blowing in the wind struck the iron poles making them chime.  Nature itself was in mood for music it seemed. So violent yet so pleasant. 
-![(The pass)](/img/aftermath/pass.jpg)
+![(The pass)](aftermath-of-cit/pass.jpg)
 
 *Ah mountains, you love them, you hate them but you can’t stay away from them.*
 
@@ -173,7 +173,7 @@ As we made our way down, the snow-covered hillsides seemed to stretch out endles
 Finally, we reached the bottom of the slope and  *Muktinath* was right in front of us, welcoming us with open arms. 
 
 It hadn’t been a week since last I visited *Muktinath.* Circumstances had it that I was bargaining with *Lord Bishnu* for the third time under the lap of *Himalayas*.  A visit to *Muktinath* would feel incomplete without the daring act of bathing in 108 stone taps with bone chilling cold water and a dip in the mind numbingly cold ponds in front of the temple. 
-![(Muktinath)](/img/aftermath/muktinath.jpg)
+![(Muktinath)](aftermath-of-cit/muktinath.jpg)
 
 *All the pain and the sins of life washed away.*
 
@@ -184,5 +184,5 @@ We had planned to stay in a hotel in *Jomsom* that day. Haggling for the price o
 *“You know there's something about a tangle of strangers pressed together for days on end with nothing in common but the need to go from one place to another, then never to see each other again.” - Bouc (Murder on Orient Express)*
 
  Early morning the next day, rocking and swaying with the road we returned to Pokhara. Tired legs looking for some much needed rest rode along  in the seven hour journey back to Earth from heaven. Recollecting and rejoicing the things that happened and things that nearly happened in the journey we were back to the place where we were loved as much as we loved the mountains, **home**.
- ![(Top G)](/img/aftermath/tho.jpg)
+ ![(Top G)](aftermath-of-cit/tho.jpg)
  *The cold burned skin, sun burned faces, chapped lips, tired eyes but a glowing soul of content of the six of us at 5410m.*
