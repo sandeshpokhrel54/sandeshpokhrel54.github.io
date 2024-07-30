@@ -25,7 +25,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 Hi! I'm Sandesh Pokhrel, a passionate computer vision researcher at [NAAMII](https://www.naamii.org.np/) under Assistant Professor [Dr. Binod Bhattarai](https://scholar.google.com/citations?user=PDEi58sAAAAJ). I am working at the forefront of medical imaging and its applications through computer vision and AI. My current research focuses on Out-of-Distribution detection in gastrointestinal vision in various modalities.  
 
-I am a graduate from Institute of Engineering(IOE), Pulchowk Campus with diverse experience in research as well as industry having worked on various deep learning techniques. I have worked on out-of-distribution detection, self supervised learning, image and object segmentation, object detection, pose estimation, voice cloning and speech recognition; using these methods to provide software solutions for pressing and practical problems.
+I am a graduate from [Institute of Engineering(IOE), Pulchowk Campus](https://pcampus.edu.np/) with diverse experience in research as well as industry having worked on various deep learning techniques. I have worked on out-of-distribution detection, self supervised learning, image and object segmentation, object detection, pose estimation, voice cloning and speech recognition; using these methods to provide software solutions for pressing and practical problems.
 
-As personal interests, I enthusiastically follow football, playing as well as analytics and am an avid star gazer on cloudless nights.
+As personal interests, I enthusiastically watch and play football, and am an avid star gazer on cloudless nights.
+
 Looking forward to connecting with you!
