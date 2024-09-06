@@ -30,3 +30,5 @@ As a computer engineering graduate from [Institute of Engineering(IOE), Pulchowk
 As personal interests, I enthusiastically watch and play football, and am an avid star gazer on cloudless nights.
 
 Looking forward to connecting with you!
+
+**Research Interests:** Medical AI, Out-of-distribution detection, Multi modal learning
