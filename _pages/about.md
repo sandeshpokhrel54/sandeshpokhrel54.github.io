@@ -31,4 +31,4 @@ As personal interests, I enthusiastically watch and play football, and am an avi
 
 Looking forward to connecting with you!
 
-**Research Interests:** Medical AI, Out-of-distribution detection, Multi modal learning
+**Research Interests:** *Medical AI, Out-of-distribution detection, Multi modal learning*
