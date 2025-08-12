@@ -9,9 +9,12 @@ showSummary: True
 {{< /lead >}}
 
 <!-- Check out [blogs]({{< ref "blogs" >}}) for slices of my life or hit me up on any of the socials above. -->
-Hi! I'm Sandesh Pokhrel, a passionate computer vision researcher at NAAMII, Nepal under Assistant Professor Binod Bhattarai. I am working at the forefront of medical imaging and advancements in AI. My current research focuses on Out-of-Distribution detection in gastrointestinal vision in various modalities. 
-I am a graduate from Institute of Engineering(IOE), Pulchowk Campus with diverse experience in research as well as industry having worked on various deep learning techniques. I have worked in out-of-distribution detection, self supervised learning, image and object segmentation, object detection, pose estimation, voice cloning and speech recognition, using these methods to provide software solutions for pressing and practical problems.
-As personal interests, I enthusiastically follow football, playing as well as analytics and am an avid star gazer on cloudless night.
+Hi! I'm Sandesh Pokhrel, a graduate student at the University of Utah under the supervision of [Professor Tolga Tasdizen](https://scholar.google.com/citations?hl=en&user=qcydYi8AAAAJ).  
+
+Before joining UofU, I was a research assistant at [NAAMII](https://www.naamii.org.np/) under Assistant Professor [Dr. Binod Bhattarai](https://scholar.google.com/citations?user=PDEi58sAAAAJ). I worked at the forefront of medical imaging and its applications through computer vision and AI. My research focused on Out-of-Distribution detection in gastrointestinal vision in various modalities and stenosis detection in coronary angiography images. 
+
+I did my undergraduate from Institute of Engineering(IOE), Pulchowk Campus with diverse experience in research as well as industry having worked on various deep learning techniques. I have been acquinted with in out-of-distribution detection, self supervised learning, image and object segmentation, object detection, pose estimation, voice cloning and speech recognition; using these methods to provide software solutions for pressing and practical problems.
+As personal interests, I enthusiastically follow football, playing as well as analytics and am an avid star gazer on cloudless nights.
 Looking forward to connecting with you!
 <!-- 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
