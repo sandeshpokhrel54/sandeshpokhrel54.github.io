@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.naamii.org.np/team/'>Research Assistant, NAAMII</a> || <a href="https://fogsphere.com/">Computer Vision Engineer, Fogsphere</a>
+subtitle: Joining The University of Utah
+# subtitle: <a href='https://www.naamii.org.np/team/'>Research Assistant, NAAMII</a> || <a href="https://fogsphere.com/">Computer Vision Engineer, Fogsphere</a>
+
 
 profile:
   align: right
